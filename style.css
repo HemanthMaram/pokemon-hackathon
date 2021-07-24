@@ -1,0 +1,59 @@
+* {
+  background-color: #001;
+}
+.heading h1 {
+  padding-top: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+
+  font-size: 7rem;
+
+  -webkit-text-stroke-width: 4px;
+  -webkit-text-stroke-color: blue;
+  -webkit-text-fill-color: yellow;
+  font-style: italic;
+
+  text-align: center;
+}
+
+img {
+  background-color: #ffff00;
+}
+
+.card {
+  color: mediumaquamarine;
+  background-color: #3cb371;
+  font-size: medium;
+}
+
+p {
+  font-size: small;
+}
+
+.card-title {
+  background-color: #db7093;
+  color: black;
+  font-weight: bolder;
+  font-size: x-large;
+}
+#fill {
+  font-family: courier;
+}
+#cbg {
+  color: #000080;
+  font-weight: bold;
+  font-size: large;
+  background-color: yellowgreen;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#abs {
+  margin-top: 2px;
+  font-weight: bold;
+  font-size: large;
+  color: #00ff00;
+}
+.weight {
+  font-style: italic;
+
+  font-size: large;
+}
