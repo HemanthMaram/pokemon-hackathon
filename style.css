@@ -1,0 +1,76 @@
+* {
+  background-color: 	#34568B;
+}
+.heading h1 {
+  padding-top: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+
+  font-size: 7rem;
+  
+  width:auto;
+
+  -webkit-text-stroke-width: 7px;
+  -webkit-text-stroke-color: #DC143C;
+  -webkit-text-fill-color: yellow;
+  font-style: italic;
+
+  text-align: center;
+}
+
+img {
+  background-color: #FFFF00;
+}
+.img1{
+   background-color:#000;
+   border-radius: 50%;
+   width: auto;
+   margin-top: -200px;
+   height: 150px;
+   margin-left: 150px;
+}
+
+.card {
+  color: mediumaquamarine;
+  background-color: #3cb371;
+  font-size: medium;
+  height: 600px;
+}
+
+
+p {
+  font-size: small;
+}
+
+.card-title {
+  background-color: #df3e74;
+  color: #fff;
+  font-weight: bolder;
+  font-size: x-large;
+}
+#fill {
+  font-family: courier;
+}
+#cbg {
+  color: #000080;
+  font-weight: bold;
+  font-size: large;
+  background-color: 		#ffff;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#abs {
+  margin-top: 2px;
+  font-weight: bold;
+  font-size: large;
+  color: 		#ffd;
+}
+.weight {
+  font-style: italic;
+  color: white;
+
+  font-size: large;
+}
+li{
+  list-style: none;
+  list-style-type:square;
+}
