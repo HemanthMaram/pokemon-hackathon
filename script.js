@@ -1,6 +1,6 @@
 const url = "https://pokeapi.co/api/v2/pokemon/";
 
-var maindiv = createElement("div", "main container-sm");
+var maindiv = createElement("div", "main container-fluid");
 var hpart = createElement("div", "heading");
 
 var titlt = createElement("h1", "title");
